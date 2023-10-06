@@ -1,6 +1,5 @@
 # Swapping-two-values
 ## AIM:
-vishal
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
 PC

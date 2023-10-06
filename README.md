@@ -18,9 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~python
 
+#Swapping of two variables
+#Developed by: Vishal S
+#REgister number: 23000591
 
+x=int(input())
+y=int(input())
+x=temp
+x=y
+y=temp
+print("The swapped values are",x,"and",y)
 
+~~~
 ## RESULT:
 Thus the swapping of two values are successfully executed
 

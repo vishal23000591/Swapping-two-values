@@ -32,8 +32,11 @@ y=temp
 print("The swapped values are",x,"and",y)
 
 ~~~
+## Output:
+![Output](/sawppingoutput.png)
+
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
